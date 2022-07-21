@@ -1,0 +1,10 @@
+SOLID PRINCIPLES
+
+*Single Responsibility
+Each class should have only sole purpose, and not be filled with excessive functionality
+
+* Open Closed
+Classes should be open for extension, closed for modification
+
+
+*
